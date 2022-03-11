@@ -1,7 +1,7 @@
 {
   "name": "WCPERestAPI",
-  "version": "2022.3.2",
-  "description": "WCPE API endpoints",
+  "version": "2022.3.11",
+  "description": "WCPE Live Events API endpoints",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,8 +23,8 @@
   "apidoc": {
     "title": "API Documenation",
     "name": "WesternCPE",
-    "version": "2022.3.4",
-    "description": "REST API endpoints",
-    "url": "https://westerncpe.com/wp-json/wcpe/v2"
+    "version": "2022.3.11",
+    "description": "WesternCPE Live Events REST API endpoints",
+    "url": "https://dev.westerncpe.com/wp-json/wcpe/v2"
   }
 }
