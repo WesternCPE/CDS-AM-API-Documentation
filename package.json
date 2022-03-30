@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/WesternCPE/rest-api-documentation#readme",
   "dependencies": {
-    "apidoc": "^0.50.4"
+    "apidoc": "^0.51.0"
   }
 }
