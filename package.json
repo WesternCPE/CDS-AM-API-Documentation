@@ -1,11 +1,11 @@
 {
-  "name": "WCPERestAPI",
-  "version": "2022.4.13",
+  "name": "wcperestapi",
+  "version": "2025.4.10",
   "description": "WCPE Live Events API endpoints",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "apidoc -i ./../WCPE-API-Plugin/classes/cds-am/ -o . -c ./../WCPE-API-Plugin/apidoc.json"
+    "generate": "apidoc -i ./../WCPE-API-Plugin/classes/cds-am/v3/ -o . -c ./../WCPE-API-Plugin/apidoc.json"
   },
   "repository": {
     "type": "git",
