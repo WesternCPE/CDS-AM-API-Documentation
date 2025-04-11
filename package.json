@@ -1,6 +1,6 @@
 {
   "name": "wcperestapi",
-  "version": "2025.4.10",
+  "version": "2025.4.11",
   "description": "WCPE Live Events API endpoints",
   "main": "src/index.js",
   "scripts": {
